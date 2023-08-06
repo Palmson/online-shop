@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "sku":"item0001",
+            "name":"Shopping-cart",
+            "price": 39.99
+        },
+        {
+            "sku":"item0002",
+            "name":"Shopping-cart model X",
+            "price": 98.49
+        },
+        {
+            "sku":"item0003",
+            "name":"Shopping-cart Premium",
+            "price": 99.99
+        }
+    ]
+}
